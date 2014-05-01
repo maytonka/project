@@ -1,0 +1,125 @@
+{
+    "contacts": [
+        {
+                "id": "c200",
+                "name": "Ravi Tamada",
+				"nickname": "Ravi",
+                "email": "ravi@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "20",
+                "phone": "+91 0000000000"
+
+        },
+        {
+                "id": "c201",
+                "name": "Johnny Depp",
+				"nickname": "Johnny",
+                "email": "johnny_depp@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "28",
+                "phone": "+91 0000000000"
+                
+        },
+        {
+                "id": "c202",
+                "name": "Leonardo Dicaprio",
+				"nickname": "Leo",
+                "email": "leonardo_dicaprio@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "50",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c203",
+                "name": "John Wayne",
+				"nickname": "John",
+                "email": "john_wayne@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "42",
+                "phone": "+91 0000000000"
+
+        },
+        {
+                "id": "c204",
+                "name": "Angelina Jolie",
+				"nickname": "Angey",
+                "email": "angelina_jolie@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "21",
+                "phone": "+91 0000000000"
+                
+        },
+        {
+                "id": "c205",
+                "name": "Dido",
+				"nickname": "D.O",
+                "email": "dido@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "36",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c206",
+                "name": "Adele",
+				"nickname": "Adele",
+                "email": "Adele@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "66",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c207",
+                "name": "Hugh Jackman",
+				"nickname": "HJ",
+                "email": "hugh_jackman@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "25",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c208",
+                "name": "Will Smith",
+				"nickname": "Will",
+                "email": "will_smith@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "18",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c209",
+                "name": "Clint Eastwood",
+				"nickname": "Clint",
+                "email": "clint_eastwood@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "44",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c210",
+                "name": "Barack Obama",
+				"nickname": "Barack",
+                "email": "barack_obama@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "26",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c211",
+                "name": "Kate Winslet",
+				"nickname": "Kate",
+                "email": "kate_winslet@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "70",
+                "phone": "+91 0000000000"
+        },
+        {
+                "id": "c212",
+                "name": "Eminem",
+				"nickname": "Emi",
+                "email": "eminem@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "age" : "99",
+                "phone": "+91 0000000000"
+        }
+    ]
+}
