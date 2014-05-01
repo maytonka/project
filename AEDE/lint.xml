@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<lint>
-    <issue id="ValidFragment">
-        <ignore path="src/com/example/aede/Company.java" />
-        <ignore path="src/com/example/aede/Member.java" />
-        <ignore path="src/com/example/aede/Post.java" />
-    </issue>
-</lint>
